@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilados Java
+out/
+*.class
+
+# Arquivos temporários / cache
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Gradle
+.gradle/
+
+# API Keys (security)
+apiKey
+src/api/apiKey
+**/apiKey
+**/apiKey.*
